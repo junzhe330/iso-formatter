@@ -1,8 +1,7 @@
 {
   "functions": {
     "api/format-iso.js": {
-      "runtime": "nodejs@18.x"
+      "runtime": "nodejs18.x"
     }
   }
 }
-
